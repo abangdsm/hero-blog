@@ -7,5 +7,5 @@ Membuat aplikasi blog dengan laravel filament
 -   [Laravel 11.x][Laravel]
 -   [Filament][Filament]
 
--   [Laravel]: https://laravel.com/
--   [Filament]: https://filamentphp.com/
+[Laravel]: https://laravel.com/
+[Filament]: https://filamentphp.com/
